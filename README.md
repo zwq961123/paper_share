@@ -5,46 +5,66 @@
 
 
 1. 题目：Study on the interior equilibrium point of a special class of 2× 2× 2 asymmetric evolutionary games.
-   期刊： Royal Society Open Science
-    发表时间：24 July 2024
-   作者：Sha Song, Qiuhui Pan, Mingfeng He
-    第一作者单位：大连理工大学
 
-   摘要：Many behavioural interactions in real life involve three individuals. When each individual has two alternative strategies, they can be abstracted into mathematical models by means of 2×2×2 asymmetric games. In this paper, we explore a special class of 2×2×2 asymmetric games satisfying fixed conditions. Firstly, we analyse two solitary interior equilibrium points and provide the judgement condition for their instability based on the Jacobi matrix local stability analysis method. Secondly, we analyse the interior equilibrium points that are continuously distributed within a line and probe into their stability conditions based on generalized Hamiltonian systems theory. Under the circumstances, the stable interior equilibrium point is surrounded by closed orbits in phase space, which presents an observable stable state where two strategies coexist and fluctuate in each of the three game populations. This work enriches the study of 2×2×2 asymmetric games’ evolutionary dynamics.
+期刊： Royal Society Open Science
+
+发表时间：24 July 2024
+
+作者：Sha Song, Qiuhui Pan, Mingfeng He
+
+第一作者单位：大连理工大学
+
+摘要：Many behavioural interactions in real life involve three individuals. When each individual has two alternative strategies, they can be abstracted into mathematical models by means of 2×2×2 asymmetric games. In this paper, we explore a special class of 2×2×2 asymmetric games satisfying fixed conditions. Firstly, we analyse two solitary interior equilibrium points and provide the judgement condition for their instability based on the Jacobi matrix local stability analysis method. Secondly, we analyse the interior equilibrium points that are continuously distributed within a line and probe into their stability conditions based on generalized Hamiltonian systems theory. Under the circumstances, the stable interior equilibrium point is surrounded by closed orbits in phase space, which presents an observable stable state where two strategies coexist and fluctuate in each of the three game populations. This work enriches the study of 2×2×2 asymmetric games’ evolutionary dynamics.
 
 2.题目：The evolution of cooperation and global synchronization in the evolutionary Kuramoto dilemma combined with the prisoner's dilemma.
-期刊： Applied Mathematics and Computation
-    发表时间：25 July 2024
-   作者：Yijun Luo, Changwei Huang, Wenchen Han 
-    第一作者单位：广西大学
 
-    摘要：In this work, we have studied the evolution of the cooperation and the global synchronization on the Kuramoto model upon random networks with two games, in which one is the evolutionary Kuramoto dilemma and the other is the weak prisoner's dilemma. Agents can gain their payoffs from these two games synchronously. In the evolutionary Kuramoto game, cooperators prefer the formation of local synchronization but pay less cooperative cost. Cooperators in weak prisoner's dilemma can form cooperator clusters because of the network reciprocity. Combining these two games shows a mutual promotion effect upon the order of the global synchronization but a competition effect on the cooperation level. The global synchronization begins to rise only when most agents choose cooperation. It is manifested by the fact that the optimal coupling strength for the highest cooperation level is smaller than that for the highest synchronization level. The high cooperation cost makes defection the most advantageous strategy when the coupling strength reaches rather high, which diminishes the effect of cooperator clusters, and ultimately results in the absence of both cooperators and global synchronization. When agents have more neighbors in the random network, it is observed that cooperation is consistently hindered unless the coupling strength is relatively small. Additionally, there is always an optimal average degree that allows for global synchronization.
+期刊： Applied Mathematics and Computation
+
+发表时间：25 July 2024
+
+作者：Yijun Luo, Changwei Huang, Wenchen Han 
+
+第一作者单位：广西大学
+
+摘要：In this work, we have studied the evolution of the cooperation and the global synchronization on the Kuramoto model upon random networks with two games, in which one is the evolutionary Kuramoto dilemma and the other is the weak prisoner's dilemma. Agents can gain their payoffs from these two games synchronously. In the evolutionary Kuramoto game, cooperators prefer the formation of local synchronization but pay less cooperative cost. Cooperators in weak prisoner's dilemma can form cooperator clusters because of the network reciprocity. Combining these two games shows a mutual promotion effect upon the order of the global synchronization but a competition effect on the cooperation level. The global synchronization begins to rise only when most agents choose cooperation. It is manifested by the fact that the optimal coupling strength for the highest cooperation level is smaller than that for the highest synchronization level. The high cooperation cost makes defection the most advantageous strategy when the coupling strength reaches rather high, which diminishes the effect of cooperator clusters, and ultimately results in the absence of both cooperators and global synchronization. When agents have more neighbors in the random network, it is observed that cooperation is consistently hindered unless the coupling strength is relatively small. Additionally, there is always an optimal average degree that allows for global synchronization.
 
 
 3.题目：Reputation-based disconnection-reconnection mechanism in Prisoner's Dilemma Game within dynamic networks
-期刊： Physica A: Statistical Mechanics and its Applications
-    发表时间：26 July 2024
-   作者：Qianwei Zhang, Jiaqi Liu, Xinran Zhang
-    第一作者单位：中国人民大学
 
-    摘要：Individual reputation significantly influences players’ decision-making. Players tend to disconnect from neighbors with lower reputations so as to mitigate potential losses in the game. Therefore, it is crucial and meaningful to explore how to apply reputation in the game to enhance cooperation. In this study, we propose a reputation-based evolution mechanism in the Prisoner's Dilemma Game (PDG) within dynamic complex networks, including square lattices and small-world networks. We introduce the reputation factor α and the selection intensity σ in order to measure the changes in reputation and their impact objectively. Moreover, considering the impact of information connectivity, we define the environmental degree r and investigate the effects of environmental degree r and rewiring probability p on cooperation rates. Simulation results demonstrate that the reputation factor and information connectivity have a positive promoting effect on cooperative behavior; conversely, the increase in selection intensity affects cooperation negatively.
+期刊： Physica A: Statistical Mechanics and its Applications
+
+发表时间：26 July 2024
+
+作者：Qianwei Zhang, Jiaqi Liu, Xinran Zhang
+
+第一作者单位：中国人民大学
+
+摘要：Individual reputation significantly influences players’ decision-making. Players tend to disconnect from neighbors with lower reputations so as to mitigate potential losses in the game. Therefore, it is crucial and meaningful to explore how to apply reputation in the game to enhance cooperation. In this study, we propose a reputation-based evolution mechanism in the Prisoner's Dilemma Game (PDG) within dynamic complex networks, including square lattices and small-world networks. We introduce the reputation factor α and the selection intensity σ in order to measure the changes in reputation and their impact objectively. Moreover, considering the impact of information connectivity, we define the environmental degree r and investigate the effects of environmental degree r and rewiring probability p on cooperation rates. Simulation results demonstrate that the reputation factor and information connectivity have a positive promoting effect on cooperative behavior; conversely, the increase in selection intensity affects cooperation negatively.
 
 4.题目：Coevolutionary game dynamics with localized environmental resource feedback
+
 期刊： ArXiv
-    发表时间：26 July 2024
-   作者：Yi-Duo Chen, Jian-Yue Guan, Zhi-Xi Wu
-    第一作者单位：兰州大学
+
+发表时间：26 July 2024
+
+作者：Yi-Duo Chen, Jian-Yue Guan, Zhi-Xi Wu
+
+第一作者单位：兰州大学
 
 摘要：Dynamic environments shape diverse dynamics in evolutionary game systems. We introduce spatial heterogeneity of resources into the Prisoner's Dilemma Game model to explore the co-evolution of individuals' strategies and environmental resources. The adequacy of resources significantly affects the survival competitiveness of surrounding individuals. Feedback between individuals' strategies and the resources they can use leads to the dynamic of the "oscillatory tragedy of the commons". Our findings indicate that when the influence of individuals' strategies on the update rate of resources is significantly high, individuals can form sustained spatial clustered patterns. These sustained patterns can directly trigger a transition in the system from the persistent periodic oscillating state to an equilibrium state. These findings align with observed phenomena in real ecosystems, where organisms organize their spatial structures to maintain system stability. We discuss critical phenomena in detail, demonstrating that the aforementioned phase transition is robust across various system parameters including: the strength of cooperators in restoring the environment, the initial distributions of cooperators, and noise.
 
 
 5.题目：Analysis of cooperative stability for reputation evaluation rules in spatial prisoner's dilemma game
-期刊： Applied Mathematics and Computation
-    发表时间：29 July 2024
-   作者：Qi Hu, Mengyu Zhou, Yulian Jiang, Xingwen Liu
-    第一作者单位：西南民族大学
 
-  摘要：Research on reputation-based indirect reciprocity has found profound achievements, elucidating its role in promoting cooperation over selfish actions. However, some evaluation methodologies have limitations, such as the image scoring model, a classic first-order paradigm. Several studies have suggested that higher-order rules with more individual information can enhance the stability of cooperation. In this study, we introduce a reputation incentive mechanism to explore the cooperative differences among various evaluation rules. Specifically, players evaluate their opponents' actions following first-order and second-order evaluation rules, respectively. Given that players possess varying degrees of social influence, the evaluative intensity is influenced by the neighbor environment and updated in each round. This resultant fluctuations in reputation exhibit heterogeneity and dynamism. Numerical simulations based on the spatial prisoner's dilemma game demonstrate that under stringent conditions, the first-order rule can sustain cooperation, while the second-order rule may fail, leading to complete group defection. Under more relaxed conditions, the second-order rule proves more effective in promoting full cooperation than the first-order rule. Our research contributes to understanding the guidance and influence of reputation on collective behavior.
+期刊： Applied Mathematics and Computation
+
+发表时间：29 July 2024
+
+作者：Qi Hu, Mengyu Zhou, Yulian Jiang, Xingwen Liu
+
+第一作者单位：西南民族大学
+
+摘要：Research on reputation-based indirect reciprocity has found profound achievements, elucidating its role in promoting cooperation over selfish actions. However, some evaluation methodologies have limitations, such as the image scoring model, a classic first-order paradigm. Several studies have suggested that higher-order rules with more individual information can enhance the stability of cooperation. In this study, we introduce a reputation incentive mechanism to explore the cooperative differences among various evaluation rules. Specifically, players evaluate their opponents' actions following first-order and second-order evaluation rules, respectively. Given that players possess varying degrees of social influence, the evaluative intensity is influenced by the neighbor environment and updated in each round. This resultant fluctuations in reputation exhibit heterogeneity and dynamism. Numerical simulations based on the spatial prisoner's dilemma game demonstrate that under stringent conditions, the first-order rule can sustain cooperation, while the second-order rule may fail, leading to complete group defection. Under more relaxed conditions, the second-order rule proves more effective in promoting full cooperation than the first-order rule. Our research contributes to understanding the guidance and influence of reputation on collective behavior.
 
 
 6.题目：The evolution of cooperation with Q-learning: the impact of information perception
